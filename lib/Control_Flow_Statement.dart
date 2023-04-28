@@ -201,6 +201,46 @@ void main() {
 
   // ## Switch Case
 
+  // var command = 'DENIED';
+  // switch(command){
+  //   case 'CLOSED':
+  //     print('Your Complaint is closed!');
+  //     break;
+  //   case 'PENDING':
+  //     print('Your Complaint is pending');
+  //     break;
+  //   case 'DENIED':
+  //     print('Your Complaint is Denied!');
+  //     break;
+  //   case 'OPEN':
+  //     print('Your Complaint is Open');
+  //     break;
+  //   default:
+  //     print("Invalid");
+  // }
+
+  // ## example 2nd of Switch case
+
+  // var command = 3;
+  // switch(command){
+  //   case 1:
+  //     print('Your Complaint is closed!');
+  //     break;
+  //   case 2:
+  //     print('Your Complaint is pending');
+  //     break;
+  //   case 3:
+  //     print('Your Complaint is Denied!');
+  //     break;
+  //   case 4:
+  //     print('Your Complaint is Open');
+  //     break;
+  //   default:
+  //     print("Invalid");
+  // }
+
+
+
 
 
 
